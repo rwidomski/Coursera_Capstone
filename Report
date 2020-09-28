@@ -1,3 +1,17 @@
-Introduction
-Business Problem
+Introduction/Business Problem
+In Seattle, there are many accidents with various levels of severity, from little damage to multiple 
+fatalities. Each accident can occur for a variety of reasons such as user error, weather conditions or 
+can even be caused from how the roadway was designed and constructed.A big goal of any community is to 
+prevent accidents from occurring to increase the safety of the public and decrease the chances of a fatality. 
+Through this project I will look for patterns in the data that can help the police department and the City of 
+Seattle to decrease the amount of accidents and increase safety in the Seattle community
+
 Data
+This data comes from the Seattle Police Department and describes a numerous amount of accidents 
+that have taken place. Each accident shows the severity rating with a number 0-3, 0 being unknown,
+1 being prop damage, 2 being injury and 3 being a fatality. For each accident, there are reported 
+items including where the accident took place, the conditions of the road, the time of day, how 
+the accident took place, etc. Each instance in the dataset will be used to make predictions about 
+the severity of future possible accidents and to make recommendations to prevent serious accidents 
+from occurring.
+
